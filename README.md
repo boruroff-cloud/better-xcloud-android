@@ -1,5 +1,10 @@
 # Better xCloud for Android
 
+> [!WARNING]
+> I only provide Better xCloud on the official repos. Don't download it from anywhere else  
+> Fake websites:
+>   - betterxcloud.net
+
 > [!NOTE]
 > The app is still in testing phase. Source code will be shared once it reachs stable version 1.0.
 
